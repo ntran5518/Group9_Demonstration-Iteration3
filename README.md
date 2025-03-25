@@ -1,6 +1,6 @@
 # 📱 Iteration 3
 
-Welcome to Iteration 3 of the **Absolute Value App**
+Welcome to Iteration 3 of the **Absolute Value App** !
 
 ## ▶️ Code Demo
 
