@@ -4,7 +4,7 @@ Welcome to Iteration 3 of the **Absolute Value App**
 
 ## ▶️ Code Demo
 
-A full code demo was recorded, showcasing all key features and matching code files.
+Code demo was recorded, showcasing all key features and matching code files.
 
 ## 👥 Team Members
 
